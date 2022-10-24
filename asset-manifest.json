@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Redux-Shope-Toolkit/static/css/main.ecc79569.css",
-    "main.js": "/Redux-Shope-Toolkit/static/js/main.9f1f0e28.js",
+    "main.css": "/Redux-Shope-Toolkit/static/css/main.5726a105.css",
+    "main.js": "/Redux-Shope-Toolkit/static/js/main.aa1df241.js",
     "static/js/787.09bbaa99.chunk.js": "/Redux-Shope-Toolkit/static/js/787.09bbaa99.chunk.js",
     "index.html": "/Redux-Shope-Toolkit/index.html",
-    "main.ecc79569.css.map": "/Redux-Shope-Toolkit/static/css/main.ecc79569.css.map",
-    "main.9f1f0e28.js.map": "/Redux-Shope-Toolkit/static/js/main.9f1f0e28.js.map",
+    "main.5726a105.css.map": "/Redux-Shope-Toolkit/static/css/main.5726a105.css.map",
+    "main.aa1df241.js.map": "/Redux-Shope-Toolkit/static/js/main.aa1df241.js.map",
     "787.09bbaa99.chunk.js.map": "/Redux-Shope-Toolkit/static/js/787.09bbaa99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecc79569.css",
-    "static/js/main.9f1f0e28.js"
+    "static/css/main.5726a105.css",
+    "static/js/main.aa1df241.js"
   ]
 }
