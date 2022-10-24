@@ -19,11 +19,17 @@ img {
 }
 .name{
   color: red;
+  
 }
 .logo{
   font-size: xx-large;
   font-weight: bolder;
   font-style: unset;
+  padding: 10px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 10px;
+    background-color: rgb(130, 181, 164);
+  
 }
 .productsWrapper {
   display: grid;
@@ -54,6 +60,9 @@ img {
   font-weight: bold;
   text-transform: uppercase;
   margin-left: 40px;
+  box-shadow: 2px 2px 2px 2px gray;
+  padding: 6px;
+  border-radius: 10px;
 }
 .navLink {
   text-decoration: none;
